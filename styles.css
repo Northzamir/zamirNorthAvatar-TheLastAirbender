@@ -1,11 +1,17 @@
-div{
-    border: solid 8px red;
-    padding: 20px;
-    margin: 20px
-
+#tag{
+    background-color: lightblue;
+    font-family: 'Noto Sans', sans-serif;
 }
-body {
-  font-family: 'Noto Sans', sans-serif;
-  background-image: "https://www.denofgeek.com/wp-content/uploads/2020/04/Avatar-The-Last-Airbender-Netflix.png?resize=768%2C432"
 
+#tag1{
+    background-color: lightblue;
+}
+
+.row{
+    background-color: lightblue;
+    text-align:center
+}
+
+ {
+  
 }
